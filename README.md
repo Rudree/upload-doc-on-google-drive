@@ -11,7 +11,7 @@ $ npm install -g upload-doc
 ## Setup
 [Get Google Drive credential](https://github.com/dstil/google-drive-data-provider#obtaining-google-developer-project--oauth-credentials)
 
-Ensure you've added environment variables in ```bash ~/.zshrc ``` to point to the credential files and run ```bash source ~/.zshrc ```
+Ensure you've added environment variables in ``` ~/.zshrc ``` to point to the credential files and run ``` source ~/.zshrc ```
 
 
 ```bash
