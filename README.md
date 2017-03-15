@@ -22,5 +22,5 @@ export GOOGLE_CREDENTIALS_PATH={path_to_credentials_file}
 
 ## Usage
 ```bash
-$ npm upload-doc FOLDER_URL filePath
+$ npm upload-doc FOLDER_URL FILE_PATH
 ```
