@@ -2,13 +2,13 @@
 Upload document in Google Drive folder using Folder URL and a path to the local file.
 
 
-##Installation
+## Installation
 ```bash
 $ npm install -g upload-doc
 ```
 
 
-##Setup
+## Setup
 [Get Google Drive credential](https://github.com/dstil/google-drive-data-provider#obtaining-google-developer-project--oauth-credentials)
 
 Ensure you've added environment variables in ```bash ~/.zshrc ``` to point to the credential files and run ```bash source ~/.zshrc ```
@@ -20,7 +20,7 @@ export GOOGLE_CREDENTIALS_PATH={path_to_credentials_file}
 ```
 
 
-##Usage
+## Usage
 ```bash
 $ npm upload-doc FOLDER_URL filePath
-```bash
+```
