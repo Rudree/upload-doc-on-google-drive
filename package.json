@@ -3,7 +3,7 @@
   "name": "upload-doc",
   "version": "0.0.0",
   "main": "dist/index.js",
-  "bin": "dist/cli.js",
+  "bin": "dist/index.js",
   "scripts": {
     "build": "node_modules/.bin/babel lib -d dist -q",
     "prebuild": "node_modules/.bin/rimraf dist",
